@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake plant",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F359373245276228332%2F&psig=AOvVaw0zgGjVsjBPG8qQJTCv45jp&ust=1731405263053000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCOCDl7GB1IkDFQAAAAAdAAAAABAE",
+      "price": "20",
+      "id": 8
     }
   ]
 }
